@@ -17,11 +17,11 @@ Running the command make will run the first set of commands under the first targ
 ###Git
 This is a command used to keep track of the changed you have made to your project. You initialize this in the folder of your project by using the git init. This will then subsequently make note of any changes make in that folder and any subdirectories. In order to add changes you use git add and the name of the changed file. Then once the changes have been added, you may commit then using git commit and again the name of the changed file. When you commit you want to add a good commit messages that discusses the changes that you made so that you may reference them later. Git makes it easier to go back and reproduce the project because you have a log of all the commits which you can go back and reference. This is the git logo: 
 
-![Git Logo](../../images/git-logo.png)
+![Git Logo](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/git-logo.png)
 
 Once you have git initialized in your folder, you can link it to a GitHub repository. A GitHub repository is basically an online folder. When you have committed changes in your folder, then you can push the changes you made onto the GitHub repository using git push. This is the GitHub Logo: 
 
-![GitHub Logo](../../images/github-logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/github-logo.png)
 
 
 ###Markdown 
@@ -33,13 +33,13 @@ This is a markup language that you use to format plain text. When I first write 
 
 Or make words **italicized** or *bold* (switched on purpose). These are a few examples. Markdown files can be easily converted into other formats such as html which is also what I did in this project as I will explain later. This is the Markdown logo: 
 
-![Markdown Logo](../../images/markdown-logo.png)
+![Markdown Logo](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/markdown-logo.png)
 
 
 ###Pandoc 
 This is a command used to change files from one format into another. For this project, we take a markdown file and convert it to an html file using pandoc. This is helpful since markdown is a much easier language to type content into. However, html is easily accessed. Pandoc allows us to work with a simple markup language, yet still get the advantaged of other formats, such as html. This is the Pandoc logo: 
 
-![Pandoc Logo](../../images/pandoc-logo.png)
+![Pandoc Logo](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/pandoc-logo.png)
 
 
 Now with this basic understanding of the tools involved I will go into the steps I took to make this project. 
@@ -60,5 +60,5 @@ The html file is the final result of the project. This project is an example of 
 
 This project was done for the purposes of Stat 159, an undergraduate statistics class taught at UC Berkeley by Professor Gaston Sanchez. Here is the Stat 159 logo:
 
-![Stat 159 Logo](../../images/stat159-logo.png)
+![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/stat159-logo.png)
 

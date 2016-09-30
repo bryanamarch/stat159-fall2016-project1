@@ -4,5 +4,5 @@ The html file is the final result of the project. This project is an example of 
 
 This project was done for the purposes of Stat 159, an undergraduate statistics class taught at UC Berkeley by Professor Gaston Sanchez. Here is the Stat 159 logo:
 
-![Stat 159 Logo](../../images/stat159-logo.png)
+![](https://raw.githubusercontent.com/ucb-stat159/stat159-fall-2016/master/projects/proj01/images/stat159-logo.png)
 
