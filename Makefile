@@ -5,7 +5,6 @@ ppr_md = paper/paper.md
 ppr_html = paper/paper.html
 
 all: $(ppr_md) $(ppr_html)
- 
 
 $(ppr_md): $(md)
 	cat $(md) > $(ppr_md)
